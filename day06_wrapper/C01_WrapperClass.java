@@ -22,7 +22,7 @@ public class C01_WrapperClass {
 		
 		System.out.println(Integer.valueOf(tel1) + Integer.valueOf(tel2)); //  6824421
 
-		
+				
 		System.out.println(Integer.MIN_VALUE);  //-2147483648
 		System.out.println(Integer.MAX_VALUE);  //2147483647
 		
@@ -35,20 +35,19 @@ public class C01_WrapperClass {
 		String caddeNo="203";
 		String sokakNo= "1564";
 		
-		// String caddeNo="B203"; Bu þekilde olmaz baþýnda alfabe karakterlerinden biri olmamalý
+		// String caddeNo="B203"; Bu ÅŸekilde olmaz baÅŸÄ±nda alfabe karakterlerinden biri olmamalÄ±
 		System.out.println(Integer.valueOf(caddeNo)+Integer.valueOf(sokakNo));
 		// Integer.valueOf(String numerik ifade) method'u string olarak kaydedilmis 
 		// numerik ifadeleri sayiya cevirir
 		// ancak String ifadede numerik olmayan bir karakter olursa
 		// Java NumberFormatException hatasi verir ve calismayi durdurur.
-		// Stops execution (yürütmeyi durdur)
+		// Stops execution (yÃ¼rÃ¼tmeyi durdur)
 		
 		System.out.println("Hello world");
 		
 		
 		
-		
-		
+				
 		
 	}
 
