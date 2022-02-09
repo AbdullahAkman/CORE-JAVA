@@ -3,8 +3,8 @@ import java.util.Iterator;
 import java.util.Scanner;
 public class C06_ForLoop {
     public static void main(String[] args) {
-        // Soru 11 ) Interview Question Kullanicidan 10’dan kucuk bir  tamsayi isteyin
-        //           ve girilen sayinin faktoryel’ini bulun. (5!=5*4*3*2*1)
+        // Soru 11 ) Interview Question Kullanicidan 10â€™dan kucuk bir  tamsayi isteyin
+        //           ve girilen sayinin faktoryelâ€™ini bulun. (5!=5*4*3*2*1)
         
         Scanner scan = new Scanner(System.in);
         System.out.println("Faktoryel hesaplamak icin 10'dan kucuk bir tam sayi girin...");
@@ -12,6 +12,7 @@ public class C06_ForLoop {
         
         System.out.print(sayi +"!=");
         int faktoryel=1;
+        
         
         for (int i = sayi; i >1; i--) {
             faktoryel*=i;
