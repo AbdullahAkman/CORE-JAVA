@@ -2,6 +2,7 @@ package day12;
 import java.util.Scanner;
 public class C03_LastIndexOf {
     public static void main(String[] args) {
+       
         // Kullanicidan bir cumle ve bir harf isteyin, 
         // harfin cumlede var olup olmadigini yazdirin
         
