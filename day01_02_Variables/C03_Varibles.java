@@ -12,8 +12,7 @@ public class C03_Varibles {
 		System.out.println(sayi1 + sayi2);
 		
 		System.out.println(sayi3+sayi4);
-		
-		
+				
 		// Farkli data turleri ayni degeri alabilir.
 		// burada onemli olan bu degiskenleri degisken turune gore islem yapabilecegimdir.
 		
