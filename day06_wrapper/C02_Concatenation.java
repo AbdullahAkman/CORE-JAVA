@@ -21,5 +21,4 @@ public class C02_Concatenation {
 		System.out.println("" + sayi1+sayi2+" " + str2);
 
 	} 
-
 }
