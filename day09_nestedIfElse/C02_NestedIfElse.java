@@ -2,11 +2,11 @@ package day09_nestedIfElse;
 import java.util.Scanner;
 public class C02_NestedIfElse {
     public static void main(String[] args) {
-        // Soru12)Kullanıcıdan 4 basamakli bir sayi girmesini isteyin. 
-        // Girdiği sayi 5’e bölünüyorsa son rakamını kontrol edin. 
-        // Son rakamı 0 ise ekrana “5’e bölünen çift sayı” yazdırın. 
-        // Son rakamı 0 değil ise “5’e bölünen tek sayı” yazdırın.     
-        // Girdiği password 5’e bölünmüyorsa ekrana “Tekrar deneyin” yazdırın.
+        // Soru12)KullanÄ±cÄ±dan 4 basamakli bir sayi girmesini isteyin. 
+        // GirdiÄŸi sayi 5â€™e bÃ¶lÃ¼nÃ¼yorsa son rakamÄ±nÄ± kontrol edin. 
+        // Son rakamÄ± 0 ise ekrana â€œ5â€™e bÃ¶lÃ¼nen Ã§ift sayÄ±â€ yazdÄ±rÄ±n. 
+        // Son rakamÄ± 0 deÄŸil ise â€œ5â€™e bÃ¶lÃ¼nen tek sayÄ±â€ yazdÄ±rÄ±n.     
+        // GirdiÄŸi password 5â€™e bÃ¶lÃ¼nmÃ¼yorsa ekrana â€œ Tekrar deneyin â€ yazdÄ±rÄ±n.
         
         Scanner scan = new Scanner(System.in);
         System.out.println("Lutfen 4 basamakli bir sayi girin");
